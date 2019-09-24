@@ -1,0 +1,1 @@
+## Release notes - Curupira fiscal
