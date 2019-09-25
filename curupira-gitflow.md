@@ -1,5 +1,17 @@
 ## Curupira - Gitflow
 
+### Fluxo básico
+
+1. Criar branch
+2. Aplicar correções
+3. Verificar alterações com a master
+4. Testar
+5. Alterar código de versão e nome
+6. Enviar alterações para a master
+7. Gerar APKs
+8. Atualizar Release Notes
+9. Enviar para produção
+
 #### Inicializando repositório
 - `git init`
 - `git add remote origin uri-repositorio`
