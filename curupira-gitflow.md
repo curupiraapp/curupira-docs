@@ -54,6 +54,7 @@
 - Caso tenha dado tudo certo, você tem a opção de deletar a branch de correção
 
 #### Gerar APKs
+- verifique se o modo debug está desabilitado
 - verifique se alterou o 'versionCode' e 'versionName' em app -> build.gradle
 - no Android Studio
 - build -> Create Signed APKs -> APKs
