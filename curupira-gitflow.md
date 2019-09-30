@@ -22,8 +22,8 @@
 - aba de 'Code' 
 - no seletor de branch escreva o nome da nova branch
 - clique em create
-- no seu repositório local: `git checkout nome-branch`
-- caso der erro: `git pull` antes
+- no seu repositório local: `git checkout nome-branch` (se der erro: `git pull` antes)
+- `git pull`
 - `git status` se quiser verificar a branch atual
 
 #### Comitando na branch
@@ -57,9 +57,9 @@
 - verifique se o modo debug está desabilitado
 - verifique se alterou o 'versionCode' e 'versionName' em app -> build.gradle
 - no Android Studio
-- build -> Create Signed APKs -> APKs
-- Selecione o arquivo curupira.jks e preencha os dados
-- Selecione 'release'
+- build -> Generate Signed Bundle/APK -> APK -> Next
+- Selecione o arquivo curupira.jks e preencha os dados -> Next
+- Selecione 'release' e marque 'V1' e 'V2'
 
 #### Atualizar Release notes
 - No repositório https://github.com/curupiraapp/curupira-docs
