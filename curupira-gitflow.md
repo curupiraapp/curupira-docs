@@ -59,7 +59,7 @@
 - no Android Studio
 - build -> Generate Signed Bundle/APK -> APK -> Next
 - Selecione o arquivo curupira.jks e preencha os dados -> Next
-- Selecione 'release' e marque 'V1' e 'V2'
+- Selecione 'release' e marque 'V1' e 'V2' -> Finish
 
 #### Atualizar Release notes
 - No repositório https://github.com/curupiraapp/curupira-docs
