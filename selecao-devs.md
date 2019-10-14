@@ -10,6 +10,11 @@
 - Desenvolvimento Web (HTML + CSS + JS)
 - Desenvolvimento iOS nativo
 
+#### Ganhos:
+- Horas de atividades de extensão
+- Possível bolsa
+- Experiência com desenvolvimento de Apps mobile e enriquecimento do portifólio profissional
+
 #### Perguntas:
 - Tem algum portifólio ?
 - Já usou API do Google Maps ?
