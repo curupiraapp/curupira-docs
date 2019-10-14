@@ -10,6 +10,11 @@
 - Desenvolvimento Web (HTML + CSS + JS)
 - Desenvolvimento iOS nativo
 
+#### Tarefas:
+- Demandas corretivas/evolutivas para os Apps mobile e Web
+- Gerenciamento dos Apps na Google Play
+- Colaboração técnica no desenvolvimento de artigos, apresentações e outras atividades relacionadas.
+
 #### Ganhos:
 - Horas de atividades de extensão
 - Possível bolsa
