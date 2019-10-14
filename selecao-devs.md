@@ -1,4 +1,4 @@
-## Requisitos novos Devs - Curupira
+## Seleção novos Devs - Curupira
 
 #### Requisitos básicos:
 - Desenvolvimento Android nativo com Java
