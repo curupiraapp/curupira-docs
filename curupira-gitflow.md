@@ -55,7 +55,7 @@
 
 #### Gerar APKs
 - verifique se o modo debug está desabilitado
-- verifique se alterou o 'versionCode' e 'versionName' em app -> build.gradle
+- verifique se alterou o 'versionCode' e 'versionName' em app -> build.gradle e a versão no Sobre do App
 - no Android Studio
 - build -> Generate Signed Bundle/APK -> APK -> Next
 - Selecione o arquivo curupira.jks e preencha os dados -> Next
