@@ -1,4 +1,4 @@
-## Curupira - Gitflow
+## Curupira - Workflow
 
 ### Fluxo básico
 
