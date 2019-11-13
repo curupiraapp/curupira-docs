@@ -74,9 +74,9 @@
 - Selecione o APK
 - Insira o nome da versão (mesmo do gradle)
 - Insira a nota de versão que irá aparecer na página do App Google Play
-- 'Salvo' e em seguida 'Revisar'
+- 'Salvar' e em seguida 'Revisar'
 - Verique se gerou algum erro ou aviso na revisão no topo da página
-- Caso contrário: 'Iniciar publicação'
+- Caso contrário: 'Iniciar lançamento para produção'
 - Verifique o final do processamento na aba 'Painel'
 
 
