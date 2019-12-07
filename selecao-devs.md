@@ -48,7 +48,7 @@
 - Apresentá-lo aos integrates da equipe
 - Add no grupo da equipe completa e dos desenvolvedores
 - Add nos respositórios GitHub como developer e nao adm (pull requests revisados)
-- Nâo add, por enquanto, na google play (deploys revisados)
+- Não add, por enquanto, na google play (deploys revisados)
 - Add no firebase
 - Apresentação do devflow
 - Add apenas no quadro 'Curupira App' do trello
