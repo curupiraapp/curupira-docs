@@ -51,3 +51,6 @@
 - Nâo add, por enquanto, na google play (deploys revisados)
 - Add no firebase
 - Apresentação do devflow
+- Add apenas no quadro 'Curupira App' do trello
+- Criar user no Curupira
+- Sem acesso as contas relacionadas ao projeto, por enquanto (email, google play, github, trello, eventbrite, ...)
