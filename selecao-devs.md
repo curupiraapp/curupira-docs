@@ -54,3 +54,4 @@
 - Add apenas no quadro 'Curupira App' do trello
 - Criar user no Curupira
 - Sem acesso as contas relacionadas ao projeto, por enquanto (email, google play, github, trello, eventbrite, ...)
+- remover dados configs nos projetos
