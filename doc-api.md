@@ -2,7 +2,7 @@
 
 #### URL base: https://api-curupira.firebaseapp.com
 
-#### Obter userID do app de denúncias:
+#### Obter User ID do app de denúncias:
 
 #### Enviar denúncia:
 - request:
