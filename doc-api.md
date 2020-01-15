@@ -3,6 +3,13 @@
 #### URL base: https://api-curupira.firebaseapp.com
 
 #### Obter User ID do app de denúncias:
+- request:
+  - uri: `/`
+    - método: `POST`
+    - headers: 
+      - **apikey** : string
+    - body: `JSON`
+- response:
 
 #### Enviar denúncia:
 - request:
@@ -24,8 +31,22 @@
     - **debug** : true/false
 - response:
   - **status** : 200 OK / 401 Unauthorized / 500 Internal Server Error
-  - **dncID** : ID da denúncia
+  - **dncid** : ID da denúncia
   
 #### Obter minhas denúncias:
+- request:
+  - uri: `/`
+    - método: `POST`
+    - headers: 
+      - **apikey** : string
+    - body: `JSON`
+- response:
 
 #### Obter minhas notificações:
+- request:
+  - uri: `/`
+    - método: `POST`
+    - headers: 
+      - **apikey** : string
+    - body: `JSON`
+- response:
