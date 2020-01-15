@@ -5,10 +5,10 @@
 #### Obter User ID do app de denúncias:
 - request:
   - uri: `/`
-    - método: `POST`
-    - headers: 
-      - **apikey** : string
-    - body: `JSON`
+  - método: `POST`
+  - headers: 
+    - **apikey** : string
+  - body: `JSON`
 - response:
 
 #### Enviar denúncia:
@@ -36,17 +36,17 @@
 #### Obter minhas denúncias:
 - request:
   - uri: `/`
-    - método: `POST`
-    - headers: 
-      - **apikey** : string
-    - body: `JSON`
+  - método: `POST`
+  - headers: 
+    - **apikey** : string
+  - body: `JSON`
 - response:
 
 #### Obter minhas notificações:
 - request:
   - uri: `/`
-    - método: `POST`
-    - headers: 
-      - **apikey** : string
-    - body: `JSON`
+  - método: `POST`
+  - headers: 
+    - **apikey** : string
+  - body: `JSON`
 - response:
