@@ -6,7 +6,8 @@
 - request:
   - uri: `/complaints/submit`
   - método: `POST`
-  - autenticação: tokenID
+  - autenticação: 
+    - **apiKey** : string
   - body: `JSON`
     - **type** : string Doméstico/Silvestre
     - **animals** : string com lista de strings sem aspas. ex.: "[Aves, Répteis]"
@@ -20,5 +21,5 @@
     - **userID** : string com id gerado na instalação
     - **debug** : true/false
 - response:
-  - **status** : 200 OK /401 Unauthorized / 500 Internal Server Error
+  - **status** : 200 OK / 401 Unauthorized / 500 Internal Server Error
   - **dncID** : ID da denúncia
