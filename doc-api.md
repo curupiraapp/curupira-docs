@@ -11,7 +11,7 @@
   - body: `JSON`
 - response:
   - **status** : 200 OK / 401 Unauthorized / 500 Internal Server Error
-  - **userid** : ID da usuário para ser enviado juntamente com as denúncias
+  - **user_id** : ID da usuário para ser enviado juntamente com as denúncias
 
 #### Enviar denúncia:
 - request:
