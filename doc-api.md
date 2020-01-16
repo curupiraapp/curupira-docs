@@ -4,12 +4,14 @@
 
 #### Obter User ID do app de denúncias:
 - request:
-  - uri: `/`
-  - método: `POST`
+  - uri: `/users/anonymous/create`
+  - método: `GET`
   - headers: 
     - **apikey** : string
   - body: `JSON`
 - response:
+  - **status** : 200 OK / 401 Unauthorized / 500 Internal Server Error
+  - **userid** : ID da usuário para ser enviado juntamente com as denúncias
 
 #### Enviar denúncia:
 - request:
@@ -31,7 +33,7 @@
     - **debug** : true/false
 - response:
   - **status** : 200 OK / 401 Unauthorized / 500 Internal Server Error
-  - **dncid** : ID da denúncia
+  - **complaint_id** : ID da denúncia
   
 #### Obter minhas denúncias:
 - request:
