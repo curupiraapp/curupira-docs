@@ -2,12 +2,12 @@
 
 #### URL base: https://api-curupira.firebaseapp.com
 
-[Usuários](#usuarios)
-- [Obter User ID anônimo](#obter-user-id-anônimo)
-[Denúncias](#denúncias)
-- [Enviar denúncia](#enviar-denúncia)
-- [Obter denúncia pelo ID](#obter-denúncia-pelo-id)
-- [Obter denúncias por usuário](#obter-denúncias-por-usuário)
+-[Usuários](#usuarios)
+  - [Obter User ID anônimo](#obter-user-id-anônimo)
+-[Denúncias](#denúncias)
+  - [Enviar denúncia](#enviar-denúncia)
+  - [Obter denúncia pelo ID](#obter-denúncia-pelo-id)
+  - [Obter denúncias por usuário](#obter-denúncias-por-usuário)
 
 ## Usuários
 
