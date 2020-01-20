@@ -1,6 +1,6 @@
 # API Curupira
 
-**URL base:** <a href="https://api-curupira.firebaseapp.com" target="_blank">https://api-curupira.firebaseapp.com</a>
+**URL base:** https://api-curupira.firebaseapp.com
 
 *******
 Requisições:
