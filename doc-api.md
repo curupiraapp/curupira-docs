@@ -9,7 +9,7 @@
   - headers: 
     - **apikey** : string
   - body: No body
-- response:
+- response: `JSON`
   - **status** : 200 OK / 401 Unauthorized / 500 Internal Server Error
   - **user_id** : ID da usuário para ser enviado juntamente com as denúncias
 
@@ -31,7 +31,7 @@
     - **longitude** : long int
     - **userid** : string com id gerado na instalação
     - **debug** : true/false
-- response:
+- response: `JSON`
   - **status** : 200 OK / 401 Unauthorized / 500 Internal Server Error
   - **complaint_id** : ID da denúncia
   
@@ -42,7 +42,7 @@
   - headers: 
     - **apikey** : string
   - body: No body
-- response:
+- response: `JSON`
   - **type** : string Doméstico/Silvestre
   - **animals** : string com lista de strings sem aspas. ex.: "[Aves, Répteis]"
   - **activities** : string com lista de strings sem aspas. ex.: "[Cativeiro, Maus tratos]"
@@ -59,11 +59,12 @@
   - **userid** : string com ID do user remetente
   - **created_at** : long int com timestamp da data de envio
 
-#### Obter minhas notificações:
+#### Obter denúncias por usuário:
 - request:
-  - uri: `/`
-  - método: `POST`
+  - uri: `/complaints/user/{userid}`
+  - método: `GET`
   - headers: 
     - **apikey** : string
-  - body: `JSON`
-- response:
+  - body: No body
+- response: `JSON`
+  - lista de objetos com a mesma estrutura da pesquisa por ID.
