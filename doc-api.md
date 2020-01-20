@@ -3,7 +3,7 @@
 #### URL base: https://api-curupira.firebaseapp.com
 
 *******
-Recursos:
+Requisições:
 - [Usuários](#usuarios)
   - [Obter User ID anônimo](#obter-user-id-anônimo)
 - [Denúncias](#denúncias)
