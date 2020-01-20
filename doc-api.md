@@ -2,7 +2,14 @@
 
 #### URL base: https://api-curupira.firebaseapp.com
 
-#### Obter User ID do app de denúncias:
+Usuários:
+- [Obter User ID anônimo](#Ob)
+Denúncias:
+- [Enviar denúncia](#Ob)
+- [Obter denúncia pelo ID](#Ob)
+- [Obter denúncias por usuário](#Ob)
+
+#### Obter User ID anônimo:
 - request:
   - uri: `/users/anonymous/create`
   - método: `GET`
