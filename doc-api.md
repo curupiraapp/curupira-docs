@@ -4,7 +4,7 @@
 
 *******
 Requisições:
-- [Usuários](#usuarios)
+- [Usuários](#usuários)
   - [Obter User ID anônimo](#obter-user-id-anônimo)
 - [Denúncias](#denúncias)
   - [Enviar denúncia](#enviar-denúncia)
