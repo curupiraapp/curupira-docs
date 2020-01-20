@@ -1,13 +1,15 @@
-## API Curupira
+# API Curupira
 
 #### URL base: https://api-curupira.firebaseapp.com
 
-Usuários:
-- [Obter User ID anônimo](#Ob)
-Denúncias:
-- [Enviar denúncia](#Ob)
-- [Obter denúncia pelo ID](#Ob)
-- [Obter denúncias por usuário](#Ob)
+[Usuários](#usuarios)
+- [Obter User ID anônimo](#obter-user-id-anônimo)
+[Denúncias](#denúncias)
+- [Enviar denúncia](#enviar-denúncia)
+- [Obter denúncia pelo ID](#obter-denúncia-pelo-id)
+- [Obter denúncias por usuário](#obter-denúncias-por-usuário)
+
+## Usuários
 
 #### Obter User ID anônimo:
 - request:
@@ -19,6 +21,8 @@ Denúncias:
 - response: `JSON`
   - **status** : 200 OK / 401 Unauthorized / 500 Internal Server Error
   - **user_id** : ID da usuário para ser enviado juntamente com as denúncias
+
+## Denúncias
 
 #### Enviar denúncia:
 - request:
