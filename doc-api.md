@@ -9,6 +9,8 @@
   - [Obter denúncia pelo ID](#obter-denúncia-pelo-id)
   - [Obter denúncias por usuário](#obter-denúncias-por-usuário)
 
+<br>
+
 ## Usuários
 
 #### Obter User ID anônimo:
@@ -21,6 +23,8 @@
 - response: `JSON`
   - **status** : 200 OK / 401 Unauthorized / 500 Internal Server Error
   - **user_id** : ID da usuário para ser enviado juntamente com as denúncias
+
+<br>
 
 ## Denúncias
 
