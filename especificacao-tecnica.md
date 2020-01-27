@@ -33,10 +33,11 @@ Todos estes estão configurados para requisitar autenticação, seja para leitur
 
 - Curupira: https://play.google.com/store/apps/details?id=com.ufpi.curupira
 - Curupira - Fiscal: https://play.google.com/store/apps/details?id=com.ufpi.curupirafiscal
-- Curupira Web: https://curupiraapp.github.io
+- Curupira - Web: https://curupiraapp.github.io
 - Política de privacidade: https://github.com/curupiraapp/curupira-docs/blob/master/politica_privacidade_curupira.pdf
 - Firebase: https://firebase.google.com
 - Google Maps: https://cloud.google.com/maps-platform
+- Android SDK: https://developer.android.com/about/versions/android-5.0
 
 ## Contatos:
 
