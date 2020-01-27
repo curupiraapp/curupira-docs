@@ -6,11 +6,11 @@ Projeto Curupira é composto por dois Apps mobile (Curupira e Curupira - Fiscal)
 
 1. **Curupira (v1.0.2)**: enviar as denúncias e acompanhar seu andamento e averiguação.
 2. **Curupira - Fiscal (v1.0.1)**: gerenciar as denúncias recebidas, usuários, visualizar estatísticas e etc.
-3. **Curupira - Web (v1.0)**: visualizar denúncias recebidas, gerar documentos, visualizar estatísticas e usuários ativos.
+3. **Curupira - Web (v1.0)**: visualizar denúncias recebidas, estatísticas, usuários ativos e gerar documentos.
 
 ## Tecnologias:
 
-Os Apps mobile são desenvolvidos para dispositivos Android (5.0+) utilizando a linguagem de programação Java e o Android SDK 21.
+Os Apps mobile foram desenvolvidos para dispositivos Android (5.0+) utilizando a linguagem de programação Java e o Android SDK 21.
 Já a versão Web é desenvolvida utilizando apenas a linguagem JavaScript e hospedada no GitHub Pages. O Curupira ainda não possui uma versão para iOS.
 
 Todos os apps usam o Firebase como back-end através de seus serviços: Realtime Database, Cloud Storage, Cloud Functions e Auth.
@@ -20,9 +20,11 @@ Outro serviço utilizado é o Google Maps para fornecer os dados de geolocaliza�
 
 ## Segurança
 
-Todas as denúncias são anônimas, ou seja, nenhum dado pessoal é solicitado ao denunciante para utilização do app. Um ID de identificação é gerado automaticamente, 
+Todas as denúncias são anônimas, ou seja, nenhum dado pessoal é solicitado ao denunciante para utilização do app principal. Um ID de identificação é gerado automaticamente, 
 apenas para viabilizar o recebimento de notificações e acompanhar o andamento de suas denúncias. Esse identificador é associado a cada instância do app instalado,
 ou seja, em caso de desinstalação ou perda do dispositivo, não será possível continuar recebendo as atualizações das denúncias.
+
+Já o Curupira - Fiscal e o Web App solicitam autenticação dos fiscais, previamente cadastrados pelos administradores.
 
 Quanto ao envio dos dados ao Firebase, seus serviços utilizam certificados SSL e fornecem mecanismos de autenticação e permissão no acesso aos dados.
 Todos estes estão configurados para requisitar autenticação, seja para leitura ou escrita de dados.
