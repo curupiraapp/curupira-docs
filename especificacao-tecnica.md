@@ -5,8 +5,8 @@
 Projeto Curupira é composto por dois Apps mobile (Curupira e Curupira - Fiscal) e um Web App.
 
 1. **Curupira (v1.0.2)**: enviar as denúncias e acompanhar seu andamento e averiguação.
-2. **Curupira - Fiscal** (v1.0.1): gerenciar as denúncias recebidas, usuários, visualizar estatísticas e etc.
-3. **Curupira - Web** (v1.0): visualizar denúncias recebidas, gerar documentos, visualizar estatísticas e usuários ativos.
+2. **Curupira - Fiscal (v1.0.1)**: gerenciar as denúncias recebidas, usuários, visualizar estatísticas e etc.
+3. **Curupira - Web (v1.0)**: visualizar denúncias recebidas, gerar documentos, visualizar estatísticas e usuários ativos.
 
 ## Tecnologias:
 
