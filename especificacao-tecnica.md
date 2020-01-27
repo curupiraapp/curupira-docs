@@ -42,4 +42,4 @@ Todos estes estão configurados para requisitar autenticação, seja para leitur
 - Instagram: @curupira18
 
 <br>
-<p align="center">Desenvolvedores - Projeto Curupira - Janeiro de 2020</p>
+<p align="center"><i>Desenvolvedores - Projeto Curupira - Janeiro de 2020</i></p>
